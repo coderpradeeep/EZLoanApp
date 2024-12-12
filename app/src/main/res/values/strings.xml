@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EZ Loan</string>
+    <string name="Asking_name">Tell us your Name Please !</string>
+    <string name="Ask_data">Help us know you better for more personalized prediction</string>
+</resources>
