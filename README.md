@@ -1,0 +1,1 @@
+This is an AI-powered mobile app that analyzes user data to assess and predict a candidate’s risk profile. Leveraging machine learning algorithms, the app provides real-time, data-driven insights to support decision-making, helping organizations identify potential red flags and make smarter, risk-aware recruitment or approval choices.
